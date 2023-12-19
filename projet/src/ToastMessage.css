@@ -1,0 +1,9 @@
+.toastMessage {
+    background-color: cyan;
+    padding: 1em;
+    width: 800px;
+}
+.toastMessage button {
+    border: none;
+    background-color: cyan;
+}
